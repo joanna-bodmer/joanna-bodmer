@@ -1,13 +1,11 @@
-Hi there, I'm Joanna
+Hi, I'm Joanna
 
-I’m in the middle of an exciting career change into tech, combining my creative background with new technical skills.
-Below is a little bit more about me...
+I’m a career-changer transitioning into software engineering, combining a creative background with strong foundations in full-stack development and data handling.
 
-- 📊 Google Data Analytics Certified (SQL, dashboards, data storytelling)  
-- 💻 Currently training in Full Stack Development (JavaScript, Python, web apps)
-- 🎬 Background in creative arts & video production (strong storytelling & project management)
-- ⚡ Fun fact: I enjoy scuba diving, console games and puzzles
-- 🌱 Always learning and open to feedback & collaboration 
+- 🎓 Training: Code First Girls CFGdegree (Full-Stack Development) and Google Data Analytics Certificate
+- 💻 Tech stack: JavaScript, SQL, REST APIs, web applications, data handling 
+- 🧠 Focus: Problem-solving, clean code, clear reasoning, and building reliable features
+- 🎬 Previous background: Creative arts and video production (project management, stakeholder communication, delivery under deadlines)
+- 🧩 Interests: Scuba diving, puzzles, console and board games (currently Turing Machine)
 
-Please feel free to connect if you have an projects you would like to work on together. 
-
+I’m keen to collaborate on beginner to intermediate projects, particularly those involving APIs, backend logic, or data-driven applications.
