@@ -6,6 +6,6 @@ I’m a career-changer transitioning into tech with strong foundations in full-s
 - 💻 Tech stack: JavaScript, SQL, REST APIs, web applications, data handling 
 - 🧠 Focus: Problem-solving, clean code, clear reasoning, and building reliable features
 - 🎬 Background: Creative arts and video production (project management and stakeholder communication)
-- 🧩 Interests: Scuba diving, puzzles, console and board games (currently Turing Machine)
+- 🧩 Interests: Scuba diving, puzzles, console and board games (Turing Machine, Mastermind, Power Grid)
 
 I’m keen to collaborate on beginner to intermediate projects, particularly those involving APIs, backend logic, or data-driven applications.
